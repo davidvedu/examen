@@ -18,6 +18,11 @@ public class Artista {
         return nombreArtista;
 	//Esto es un comentario
     }
+
+	//DAVID VELASCO DURAN 
+	public void cambiarNombreArtista(String nombre){
+		this.nombreArtista = nombre;
+	}
     
 }
 
